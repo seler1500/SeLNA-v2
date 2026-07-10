@@ -1,7 +1,7 @@
 # SeLNA v2  
 #### High performance, low cost filtered LNA 
 <details><summary>Naming scheme, serial numbers</summary>  
-
+    
 v2.a.b  
 v2 = SeLNA v2
 a = filter count   
@@ -25,8 +25,7 @@ Supply voltage: 3.15 ... 5.25 V
 Supply current: typ. 140 mA @ 5 V   
 Operating temperature: -30 ... +75°C (case)  
 Storage temperature: -40 ... +85°C  
-Noise figure: typ. 0.6 dB (L-band, v2.1.5)  
-Output P1dB: 20 dBm  
+Noise figure: typ. 0.45...0.6dB (L-band, v2.1.5)   
 50Ω matched input/output  
 </details>
 
