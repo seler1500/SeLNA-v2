@@ -59,7 +59,7 @@ Which is... making sure the enclosure is conductive. Quick multimeter continuity
 
 ### Step 2 - measuring and setting first stage bias current
 
-Set your power supply to 5.0V, connect the ground to the PCB ground, and positive to a positive lead of your multimeter.  
+Set your power supply to 4.2-4.5V (unless you are planning to use the LNA with different input voltage), connect the ground to the PCB ground, and positive to a positive lead of your multimeter.  
 Set it to DC current measurement, <200mA range. Probe "QPL Bias" pad with the other lead as shown.  
 
 ![](pictures/qpl_bias_current.jpg)
