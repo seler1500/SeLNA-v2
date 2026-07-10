@@ -1,9 +1,10 @@
 # SeLNA v2  
 #### High performance, low cost filtered LNA 
 <details><summary>Naming scheme, serial numbers</summary>  
-    
+
+      
 v2.a.b  
-v2 = SeLNA v2
+v2 = SeLNA v2   
 a = filter count   
 b = revision  
 v2.2.6 = double filtered SeLNA v2, revision 6  
