@@ -38,7 +38,7 @@ Noise figure: typ. 0.45...0.6dB (L-band, v2.1.5)
 ### Step 1 - cleanup and preparing the components
 SeLNA v2 uses chinese bias tee enclosure, as that was the cheapest option to include connectors, lid and the screws. You can easily find it on aliexpress by searching for "RF bias tee".  
 After reflow soldering the board, it's recommended to wash it with isopropyl alcohol or other electronics-safe solvent to remove any flux and solder residues.  
-**Make sure to very neatly clean up the MMIC areas from leftover solder paste, as it will skew the bias current and can cause weird behaviour.**  
+**Make sure to very neatly clean up the MMIC areas from leftover solder paste (nylon brush + isopropyl alcohol work well); otherwise it will skew the bias current and might cause weird behaviour.**  
 SMA connector probes need to be shortened to 2 ±0.25 mm, teflon insulator should be flush with the inner enclosure surface.
 
 ![](pictures/you_are_here.jpg)
